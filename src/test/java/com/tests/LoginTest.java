@@ -10,7 +10,7 @@ import com.pages.LoginPage;
 
 public class LoginTest  extends TestBase{
 
-	WebDriver driver;
+	WebDriver driver=null;
 	LoginPage lp;
 	static DashBoardPage dp;
 	
