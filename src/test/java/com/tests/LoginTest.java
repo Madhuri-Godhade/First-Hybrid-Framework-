@@ -11,7 +11,7 @@ import com.pages.LoginPage;
 public class LoginTest  extends TestBase{
 
 	WebDriver driver=null;
-	LoginPage lp;
+	LoginPage lp=null;
 	static DashBoardPage dp;
 	
 	@BeforeSuite
